@@ -52,7 +52,7 @@ class DetailsVC: UIViewController, UINavigationControllerDelegate, UIImagePicker
                     }
                 }
             } catch {
-                
+                print("error")
             }
             
         } else {

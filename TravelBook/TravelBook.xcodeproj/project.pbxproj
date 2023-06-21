@@ -14,6 +14,7 @@
 		045A84792A330BF000D826DC /* TravelBook.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 045A84772A330BF000D826DC /* TravelBook.xcdatamodeld */; };
 		045A847B2A330BF000D826DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 045A847A2A330BF000D826DC /* Assets.xcassets */; };
 		045A847E2A330BF000D826DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 045A847C2A330BF000D826DC /* LaunchScreen.storyboard */; };
+		045A84862A36CA4600D826DC /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045A84852A36CA4600D826DC /* ListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		045A847A2A330BF000D826DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		045A847D2A330BF000D826DC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		045A847F2A330BF000D826DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		045A84852A36CA4600D826DC /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				045A84702A330BF000D826DC /* SceneDelegate.swift */,
 				045A84722A330BF000D826DC /* ViewController.swift */,
 				045A84742A330BF000D826DC /* Main.storyboard */,
+				045A84852A36CA4600D826DC /* ListViewController.swift */,
 				045A847A2A330BF000D826DC /* Assets.xcassets */,
 				045A847C2A330BF000D826DC /* LaunchScreen.storyboard */,
 				045A847F2A330BF000D826DC /* Info.plist */,
@@ -144,6 +147,7 @@
 				045A84792A330BF000D826DC /* TravelBook.xcdatamodeld in Sources */,
 				045A84732A330BF000D826DC /* ViewController.swift in Sources */,
 				045A846F2A330BF000D826DC /* AppDelegate.swift in Sources */,
+				045A84862A36CA4600D826DC /* ListViewController.swift in Sources */,
 				045A84712A330BF000D826DC /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
