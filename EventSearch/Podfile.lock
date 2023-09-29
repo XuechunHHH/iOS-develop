@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.6.4)
+  - Kingfisher (7.6.2)
+  - SwiftUI-SimpleToast (0.6.2)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - SwiftUI-SimpleToast (from `https://github.com/sanzaru/SimpleToast.git`)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  SwiftUI-SimpleToast:
+    :git: https://github.com/sanzaru/SimpleToast.git
+
+CHECKOUT OPTIONS:
+  SwiftUI-SimpleToast:
+    :commit: fa07f1ac558428e658db6a20685a5e7bb9201e02
+    :git: https://github.com/sanzaru/SimpleToast.git
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  Kingfisher: 6c5449c6450c5239166510ba04afe374a98afc4f
+  SwiftUI-SimpleToast: 34a7ede33ac00e1ab21cc114c041d68da5fbc6b3
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: eee8057080817e5b5ad7979c22174eab2101c9cc
+
+COCOAPODS: 1.12.0
